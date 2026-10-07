@@ -12,9 +12,9 @@
 
 > Single Terminal Install (Tested only on Ubuntu 26.04 so far):  
 
-> > git clone git@github.com:jack-denapoli-analyst/venv-tools.git ~/venv-tools && \
+> > "git clone git@github.com:jack-denapoli-analyst/venv-tools.git ~/venv-tools && \
 > > cd ~/venv-tools && \
-> > bash bootstrap.sh  
+> > bash bootstrap.sh"  
 
 ### List Available .config's  
 venv-list  
