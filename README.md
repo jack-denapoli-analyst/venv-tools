@@ -29,7 +29,7 @@ source myproject/bin/activate
 ### Add a new profile (from cli)
 echo "package1 package2 package3" > ~/.venv-configs/newprofile.conf
 
-## Already Inclided example .Conf Profiles
+## Already Included example .Conf Profiles
 data-science | Time series, ML, data cleaning/processing
 ml-training | deep learning
 web-dev | web framework stack
